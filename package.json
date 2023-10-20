@@ -8,9 +8,9 @@
     "name": "A Strapi developer"
   },
   "scripts": {
-    "build": "npm install",
+    "build": "strapi build",
     "develop": "strapi develop",
-    "start": "npm start",
+    "start": "strapi start",
     "strapi": "strapi"
   },
   "dependencies": {
